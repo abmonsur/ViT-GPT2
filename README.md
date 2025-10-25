@@ -1,3 +1,5 @@
+This code was based on the repository: https://github.com/shreydan/VisionGPT2/tree/main
+
 This code is for Flickr30k dataset. New datastets can be used by changing the code in the main.py and eval.py files
 
 create enviroment using the requirements.txt file
